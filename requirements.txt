@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+tensorflow
+statsmodels
+holidays
+python-dotenv
+google-generativeai
